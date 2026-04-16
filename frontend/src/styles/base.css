@@ -1,0 +1,110 @@
+body {
+  background: linear-gradient(to bottom, #fcfcfb 0%, #f4f1f7 100%);
+  color: var(--text);
+}
+
+#root,
+.app-shell {
+  min-height: 100vh;
+}
+
+.hero,
+.auth-page {
+  min-height: calc(100vh - 78px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 48px 24px 72px;
+}
+
+.hero__content {
+  max-width: 860px;
+  text-align: center;
+}
+
+.hero__eyebrow,
+.section-label,
+.landing__eyebrow,
+.landing__card-label,
+.featured-card__category,
+.product-card__category {
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.hero__eyebrow {
+  margin-bottom: 14px;
+  font-size: 0.86rem;
+  letter-spacing: 0.16em;
+  color: var(--muted);
+}
+
+.hero__title,
+.landing__title,
+.section-title,
+.products-page__title,
+.auth-card__title {
+  letter-spacing: -0.05em;
+  font-weight: 800;
+}
+
+.hero__title {
+  margin: 0 0 18px;
+  font-size: clamp(3rem, 7vw, 6rem);
+  line-height: 0.95;
+}
+
+.hero__text,
+.section-text,
+.landing__card-text,
+.landing__mission-text,
+.landing__bundle-text,
+.product-card__description,
+.products-page__text {
+  color: var(--muted);
+}
+
+.hero__text {
+  max-width: 640px;
+  margin: 0 auto 30px;
+  font-size: 1.15rem;
+  line-height: 1.8;
+}
+
+.hero__actions,
+.landing__actions,
+.products-page__toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.section-label {
+  margin: 0 0 10px;
+  font-size: 0.8rem;
+  letter-spacing: 0.14em;
+  color: var(--muted);
+}
+
+.section-title {
+  margin: 0 0 14px;
+  font-size: clamp(2rem, 4vw, 3.2rem);
+  line-height: 1.02;
+  color: var(--text);
+}
+
+.section-text {
+  margin: 0;
+  font-size: 1.04rem;
+  line-height: 1.8;
+}
+
+.section-heading {
+  max-width: 760px;
+  margin-bottom: 32px;
+}
+
+html {
+  scrollbar-gutter: stable;
+  overflow-y: scroll;
+}

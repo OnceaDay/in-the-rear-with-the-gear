@@ -1,0 +1,35 @@
+.orders-page {
+  width: var(--container);
+  margin: 0 auto;
+  padding: 40px 0 72px;
+}
+
+.orders-page__title {
+  margin: 0 0 16px;
+  font-size: clamp(2.2rem, 5vw, 3.4rem);
+  line-height: 1;
+  letter-spacing: -0.04em;
+}
+
+.orders-page__text {
+  margin: 0 0 28px;
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+.orders-page__list {
+  display: grid;
+  gap: 20px;
+}
+
+@media (max-width: 1024px) {
+  .orders-page {
+    width: var(--container-md);
+  }
+}
+
+@media (max-width: 768px) {
+  .orders-page {
+    width: var(--container-sm);
+  }
+}

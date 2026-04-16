@@ -1,0 +1,35 @@
+.page-content,
+.landing__quick-grid,
+.landing__featured,
+.landing__intro,
+.landing__missions,
+.landing__bundles,
+.landing__cta-strip,
+.products-page {
+  width: var(--container);
+  margin-inline: auto;
+}
+
+.surface-card {
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  background: #ffffff;
+  box-shadow: var(--shadow);
+}
+
+.interactive-lift {
+  transition: transform var(--transition-card), box-shadow var(--transition-card);
+}
+
+.interactive-lift:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--shadow-hover);
+}
+
+.text-muted {
+  color: var(--muted);
+}
+
+.text-center {
+  text-align: center;
+}

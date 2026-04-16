@@ -1,0 +1,451 @@
+.landing {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.landing__hero {
+  position: relative;
+  width: 100%;
+  min-height: 78vh;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  background: url("/images/forreal_modern_living_room_interior_designed_for_a_veteran.jpeg")
+    center center / cover no-repeat;
+}
+
+.landing__overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    rgba(10, 10, 10, 0.72) 0%,
+    rgba(10, 10, 10, 0.46) 34%,
+    rgba(10, 10, 10, 0.22) 62%,
+    rgba(10, 10, 10, 0.1) 100%
+  );
+}
+
+.landing__hero-content {
+  position: relative;
+  z-index: 2;
+  width: var(--container);
+  margin: 0 auto;
+  padding: 3.5rem 32px 6rem;
+  transform: translate(-6%, -10%);
+  color: #ffffff;
+}
+
+.landing__brand-lockup {
+  margin-bottom: 12px;
+}
+
+.landing__brand-logo {
+  width: 240px;
+  max-width: 60%;
+  height: auto;
+  display: block;
+}
+
+.landing__eyebrow {
+  margin: 0 0 14px;
+  font-size: 0.82rem;
+  letter-spacing: 0.16em;
+  color: rgba(255, 255, 255, 0.84);
+}
+
+.landing__title {
+  max-width: 540px;
+  margin: 0 0 20px;
+  font-size: clamp(3rem, 7vw, 6rem);
+  line-height: 0.94;
+  color: #ffffff;
+}
+
+.landing__subtitle {
+  max-width: 560px;
+  margin: 0 0 30px;
+  font-size: 1.08rem;
+  line-height: 1.8;
+  color: rgba(255, 255, 255, 0.92);
+}
+
+.landing__actions .btn--secondary {
+  border-color: rgba(255, 255, 255, 0.92);
+  background: rgba(255, 255, 255, 0.08);
+  color: #ffffff;
+}
+
+.landing__actions .btn--secondary:hover {
+  background: rgba(255, 255, 255, 0.18);
+}
+
+.landing__quick-grid {
+  width: var(--container);
+  margin: -42px auto 40px;
+  position: relative;
+  z-index: 4;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+}
+
+.quick-card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 24px 22px;
+  background: rgba(255, 255, 255, 0.97);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow);
+}
+
+.quick-card__title {
+  font-size: 1.1rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+}
+
+.quick-card__text {
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+.landing__featured,
+.landing__intro,
+.landing__missions,
+.landing__bundles,
+.landing__cta-strip {
+  width: var(--container);
+  margin-inline: auto;
+}
+
+.landing__featured {
+  padding: 28px 0 20px;
+}
+
+.landing__featured-error {
+  margin: 0 0 18px;
+  color: var(--muted);
+}
+
+.landing__featured-grid,
+.landing__mission-grid,
+.landing__bundle-grid {
+  display: grid;
+  gap: 22px;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.featured-card {
+  padding: 20px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  background: var(--surface);
+  box-shadow: var(--shadow);
+}
+
+.featured-card__media {
+  height: 210px;
+  margin-bottom: 16px;
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+  background: linear-gradient(135deg, #ddd7cf 0%, #f3efe8 45%, #c9d3dc 100%);
+}
+
+.featured-card__image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.featured-card__image-placeholder {
+  width: 100%;
+  height: 100%;
+  display: grid;
+  place-items: center;
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--muted);
+  background: linear-gradient(135deg, #ddd7cf 0%, #f3efe8 45%, #c9d3dc 100%);
+}
+
+.featured-card__category {
+  margin: 0 0 8px;
+  font-size: 0.8rem;
+  letter-spacing: 0.12em;
+}
+
+.featured-card__title,
+.landing__mission-title,
+.landing__bundle-title {
+  margin: 0 0 12px;
+  font-size: 1.4rem;
+  line-height: 1.12;
+  letter-spacing: -0.03em;
+}
+
+.featured-card__price {
+  margin: 0 0 14px;
+  font-size: 1rem;
+  font-weight: 800;
+}
+
+.landing__intro {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 28px;
+  align-items: start;
+  padding: 72px 0 28px;
+}
+
+.landing__intro-copy {
+  padding-right: 12px;
+}
+
+.landing__info-card,
+.landing__mission-card,
+.landing__bundle-card {
+  padding: 28px 24px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  background: var(--surface);
+  box-shadow: var(--shadow);
+}
+
+.landing__card-label {
+  display: inline-block;
+  margin-bottom: 12px;
+  font-size: 0.78rem;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+}
+
+.landing__card-title {
+  margin: 0 0 12px;
+  font-size: 1.5rem;
+  line-height: 1.15;
+  letter-spacing: -0.03em;
+}
+
+.landing__card-text,
+.landing__mission-text,
+.landing__bundle-text {
+  margin: 0 0 18px;
+  line-height: 1.75;
+}
+
+.landing__list {
+  display: grid;
+  gap: 10px;
+  margin: 0;
+  padding-left: 18px;
+}
+
+.landing__list li {
+  line-height: 1.5;
+}
+
+.landing__missions {
+  padding: 36px 0 28px;
+}
+
+.landing__mission-card {
+  background: linear-gradient(180deg, #ffffff 0%, #f8f7f2 100%);
+}
+
+.landing__bundles {
+  padding: 36px 0 32px;
+}
+
+.landing__bundle-card {
+  min-height: 240px;
+  background: linear-gradient(
+    145deg,
+    rgba(194, 165, 108, 0.12),
+    rgba(255, 255, 255, 0.95)
+  );
+}
+
+.landing__text-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--text);
+  font-weight: 700;
+  transition: opacity var(--transition-fast), transform var(--transition-fast);
+}
+
+.landing__text-link:hover {
+  opacity: 0.74;
+  transform: translateX(2px);
+}
+
+.landing__cta-strip {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  margin: 22px auto 72px;
+  padding: 32px 28px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  background: linear-gradient(135deg, #ffffff 0%, #f7f3eb 100%);
+  box-shadow: var(--shadow);
+}
+
+.landing__cta-copy {
+  max-width: 720px;
+}
+
+.landing__actions--footer .btn--secondary {
+  border-color: var(--primary);
+  background: transparent;
+  color: var(--primary);
+}
+
+@media (max-width: 1024px) {
+  .landing__hero {
+    min-height: 70vh;
+    background-position: center center;
+  }
+
+  .landing__hero-content {
+    width: 54%;
+    max-width: 54%;
+    margin: 0;
+    padding: 0 16px 0 32px;
+    transform: translateY(-10%);
+    text-align: left;
+  }
+
+  .landing__brand-logo {
+    width: 210px;
+    max-width: 72%;
+  }
+
+  .landing__quick-grid,
+  .landing__featured,
+  .landing__intro,
+  .landing__missions,
+  .landing__bundles,
+  .landing__cta-strip {
+    width: var(--container-md);
+  }
+
+  .landing__quick-grid {
+    grid-template-columns: repeat(2, 1fr);
+    margin: -32px auto 36px;
+  }
+
+  .landing__mission-grid,
+  .landing__bundle-grid,
+  .landing__featured-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .landing__intro {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .landing__hero {
+    min-height: 62vh;
+    align-items: center;
+    background-position: 86% center;
+  }
+
+  .landing__overlay {
+    background: linear-gradient(
+      180deg,
+      rgba(10, 10, 10, 0.24) 0%,
+      rgba(10, 10, 10, 0.56) 44%,
+      rgba(10, 10, 10, 0.9) 100%
+    );
+  }
+
+  .landing__hero-content {
+    width: 58%;
+    max-width: 58%;
+    margin: 0;
+    padding: 0 16px 0 24px;
+    transform: translateY(-10%);
+    text-align: left;
+  }
+
+  .landing__brand-logo {
+    width: 180px;
+    max-width: 78%;
+  }
+
+  .landing__eyebrow {
+    font-size: 0.72rem;
+    letter-spacing: 0.11em;
+    margin-bottom: 10px;
+  }
+
+  .landing__title {
+    max-width: 100%;
+    font-size: clamp(1.9rem, 8.4vw, 2.9rem);
+    line-height: 0.95;
+    margin: 0 0 14px;
+  }
+
+  .landing__subtitle {
+    max-width: 100%;
+    margin: 0 0 22px;
+    font-size: 0.92rem;
+    line-height: 1.5;
+  }
+
+  .landing__actions,
+  .hero__actions {
+    justify-content: flex-start;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+
+  .landing__actions .btn {
+    min-width: 138px;
+  }
+
+  .landing__quick-grid,
+  .landing__featured,
+  .landing__intro,
+  .landing__missions,
+  .landing__bundles,
+  .landing__cta-strip {
+    width: var(--container-sm);
+  }
+
+  .landing__quick-grid,
+  .landing__featured-grid,
+  .landing__mission-grid,
+  .landing__bundle-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .landing__quick-grid {
+    margin: 18px auto 32px;
+  }
+
+  .landing__intro {
+    padding: 56px 0 20px;
+  }
+
+  .landing__missions,
+  .landing__bundles {
+    padding: 28px 0 20px;
+  }
+
+  .landing__cta-strip {
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 56px;
+    padding: 26px 20px;
+  }
+}

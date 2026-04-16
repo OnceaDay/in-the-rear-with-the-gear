@@ -1,0 +1,53 @@
+.site-nav__shop-button,
+.product-card__button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+}
+
+.btn {
+  min-width: 170px;
+  padding: 14px 20px;
+  border: 0;
+  border-radius: 12px;
+  transition:
+    transform var(--transition-fast),
+    opacity var(--transition-fast),
+    background var(--transition-fast),
+    border-color var(--transition-fast),
+    box-shadow var(--transition-fast);
+}
+
+.btn:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-hover);
+}
+
+.btn--primary,
+.site-nav__shop-button,
+.product-card__button {
+  padding: 12px 18px;
+  border: 0;
+  border-radius: 999px;
+  background: var(--primary);
+  color: #ffffff;
+}
+
+.btn--primary:hover,
+.site-nav__shop-button:hover,
+.product-card__button:hover {
+  background: var(--primary-hover);
+}
+
+.btn--secondary {
+  padding: 12px 18px;
+  border: 1px solid var(--primary);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--primary);
+}
+
+.btn--secondary:hover {
+  background: rgba(95, 100, 84, 0.08);
+}

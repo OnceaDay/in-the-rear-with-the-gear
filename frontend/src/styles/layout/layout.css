@@ -1,0 +1,93 @@
+.auth-card,
+.landing__info-card,
+.landing__mission-card,
+.landing__bundle-card,
+.featured-card,
+.product-card,
+.quick-card,
+.landing__cta-strip {
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+}
+
+.auth-card,
+.landing__info-card,
+.landing__mission-card,
+.landing__bundle-card,
+.featured-card,
+.product-card,
+.quick-card {
+  border-radius: var(--radius-md);
+  background: #ffffff;
+}
+
+.landing__mission-card,
+.landing__bundle-card,
+.quick-card,
+.featured-card,
+.product-card {
+  transition: transform var(--transition-card), box-shadow var(--transition-card);
+}
+
+.quick-card:hover,
+.featured-card:hover,
+.product-card:hover,
+.landing__mission-card:hover,
+.landing__bundle-card:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--shadow-hover);
+}
+
+@media (max-width: 1024px) {
+  .page-content,
+  .landing__quick-grid,
+  .landing__featured,
+  .landing__intro,
+  .landing__missions,
+  .landing__bundles,
+  .landing__cta-strip,
+  .products-page,
+  .landing__hero-content {
+    width: var(--container-md);
+  }
+}
+
+@media (max-width: 768px) {
+  .page-content,
+  .landing__quick-grid,
+  .landing__featured,
+  .landing__intro,
+  .landing__missions,
+  .landing__bundles,
+  .landing__cta-strip,
+  .products-page,
+  .landing__hero-content {
+    width: var(--container-sm);
+  }
+
+  .hero,
+  .auth-page {
+    padding: 32px 16px 56px;
+  }
+
+  .hero__text,
+  .section-text,
+  .products-page__text {
+    font-size: 1rem;
+  }
+
+  .landing__info-card,
+  .landing__mission-card,
+  .landing__bundle-card,
+  .landing__cta-strip,
+  .auth-card,
+  .featured-card,
+  .product-card,
+  .quick-card {
+    border-radius: 18px;
+  }
+
+  .section-title {
+    font-size: clamp(1.8rem, 8vw, 2.6rem);
+  }
+}

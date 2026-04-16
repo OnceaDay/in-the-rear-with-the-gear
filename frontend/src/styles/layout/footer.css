@@ -1,0 +1,24 @@
+.site-footer {
+  border-top: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.9);
+}
+
+.site-footer__inner {
+  width: var(--container);
+  margin: 0 auto;
+  padding: 24px 0 40px;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+@media (max-width: 1024px) {
+  .site-footer__inner {
+    width: var(--container-md);
+  }
+}
+
+@media (max-width: 768px) {
+  .site-footer__inner {
+    width: var(--container-sm);
+  }
+}

@@ -1,0 +1,96 @@
+# ==================================================
+# OS FILES
+# ==================================================
+.DS_Store
+Thumbs.db
+
+# ==================================================
+# LOGS
+# ==================================================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ==================================================
+# PYTHON / DJANGO
+# ==================================================
+backend/__pycache__/
+backend/**/*.py[cod]
+backend/**/*.pyo
+backend/**/*.pyd
+backend/*$py.class
+
+# Virtual environments
+backend/venv/
+backend/env/
+backend/ENV/
+backend/.venv/
+
+# Database
+backend/db.sqlite3
+*.sqlite3
+backend/db.sqlite3-journal
+
+# Static build output
+backend/staticfiles/
+
+# ==================================================
+# ⚠️ MEDIA (IMPORTANT DECISION)
+# ==================================================
+# DO NOT IGNORE YET — your frontend depends on images
+# backend/media/
+
+# ==================================================
+# ENV VARIABLES (SECURITY)
+# ==================================================
+backend/.env
+backend/.env.*
+frontend/.env
+frontend/.env.*
+
+# ==================================================
+# NODE / REACT
+# ==================================================
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+*.local
+
+# ==================================================
+# BUILD / PACKAGING
+# ==================================================
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+
+# ==================================================
+# TESTING / CACHE
+# ==================================================
+.coverage
+.coverage.*
+.cache/
+.pytest_cache/
+
+# ==================================================
+# IDE / EDITORS
+# ==================================================
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.swp
+*.swo
+
+# ==================================================
+# MISC
+# ==================================================

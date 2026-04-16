@@ -1,0 +1,19 @@
+@import "./styles/reset.css";
+@import "./styles/variables.css";
+@import "./styles/base.css";
+@import "./styles/utilities.css";
+
+@import "./styles/layout/layout.css";
+@import "./styles/layout/navbar.css";
+@import "./styles/layout/footer.css";
+
+@import "./styles/pages/landing.css";
+@import "./styles/pages/products.css";
+@import "./styles/pages/cart.css";
+@import "./styles/pages/orders.css";
+@import "./styles/pages/login.css";
+
+@import "./styles/components/button.css";
+@import "./styles/components/cartItem.css";
+@import "./styles/components/form.css";
+@import "./styles/components/productCard.css";

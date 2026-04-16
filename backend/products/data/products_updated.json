@@ -1,0 +1,4000 @@
+[
+    {
+        "id": 4,
+        "name": "Accent Chair",
+        "slug": "accent-chair",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Accent Chair designed for modern living room setups.",
+        "long_description": "Accent Chair is a budget tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "108.99",
+        "budget_tier": "budget",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 9,
+        "tags": [
+            "living-room",
+            "budget",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 3"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/accent-chair.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Accent Chair in the Living Room category"
+    },
+    {
+        "id": 75,
+        "name": "Adjustable Footrest",
+        "slug": "adjustable-footrest",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Adjustable Footrest designed for modern office setups.",
+        "long_description": "Adjustable Footrest is a premium tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "276.98",
+        "budget_tier": "premium",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 18,
+        "tags": [
+            "office",
+            "premium",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 24"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/adjustable-footrest.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Adjustable Footrest in the Office category",
+        "created_at": "2026-03-16T00:15:18.900225Z",
+        "updated_at": "2026-03-16T00:15:18.900243Z"
+    },
+    {
+        "id": 16,
+        "name": "Area Rug",
+        "slug": "area-rug",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Area Rug designed for modern living room setups.",
+        "long_description": "Area Rug is a budget tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "192.99",
+        "budget_tier": "budget",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 9,
+        "tags": [
+            "living-room",
+            "budget",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 15"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/area-rug.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Area Rug in the Living Room category",
+        "created_at": "2026-03-16T00:15:17.939718Z",
+        "updated_at": "2026-03-16T00:15:17.939737Z"
+    },
+    {
+        "id": 41,
+        "name": "Bed Frame",
+        "slug": "bed-frame",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Bed Frame designed for modern bedroom setups.",
+        "long_description": "Bed Frame is a premium tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "250.98",
+        "budget_tier": "premium",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 9,
+        "tags": [
+            "bedroom",
+            "premium",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 15"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/bed-frame.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Bed Frame in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.214787Z",
+        "updated_at": "2026-03-16T00:15:18.214804Z"
+    },
+    {
+        "id": 34,
+        "name": "Bedroom Bench",
+        "slug": "bedroom-bench",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Bedroom Bench designed for modern bedroom setups.",
+        "long_description": "Bedroom Bench is a midrange tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "161.99",
+        "budget_tier": "midrange",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 6,
+        "tags": [
+            "bedroom",
+            "midrange",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 8"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/bedroom-bench.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Bedroom Bench in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.161552Z",
+        "updated_at": "2026-03-16T00:15:18.161571Z"
+    },
+    {
+        "id": 48,
+        "name": "Bedroom Bundle",
+        "slug": "bedroom-bundle",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Bedroom Bundle designed for modern bedroom setups.",
+        "long_description": "Bedroom Bundle is a budget tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "231.99",
+        "budget_tier": "budget",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 12,
+        "tags": [
+            "bedroom",
+            "budget",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 22"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/bedroom-bundle.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Bedroom Bundle in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.488954Z",
+        "updated_at": "2026-03-16T00:15:18.488971Z"
+    },
+    {
+        "id": 42,
+        "name": "Bedroom Rug",
+        "slug": "bedroom-rug",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Bedroom Rug designed for modern bedroom setups.",
+        "long_description": "Bedroom Rug is a budget tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "189.99",
+        "budget_tier": "budget",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 12,
+        "tags": [
+            "bedroom",
+            "budget",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 16"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/bedroom-rug.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Bedroom Rug in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.398385Z",
+        "updated_at": "2026-03-16T00:15:18.398404Z"
+    },
+    {
+        "id": 35,
+        "name": "Bedside Lamp",
+        "slug": "bedside-lamp",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Bedside Lamp designed for modern bedroom setups.",
+        "long_description": "Bedside Lamp is a premium tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "208.98",
+        "budget_tier": "premium",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 9,
+        "tags": [
+            "bedroom",
+            "premium",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 9"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/bedside-lamp.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Bedside Lamp in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.176825Z",
+        "updated_at": "2026-03-16T00:15:18.176843Z"
+    },
+    {
+        "id": 45,
+        "name": "Blanket Chest",
+        "slug": "blanket-chest",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Blanket Chest designed for modern bedroom setups.",
+        "long_description": "Blanket Chest is a budget tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "210.99",
+        "budget_tier": "budget",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 3,
+        "tags": [
+            "bedroom",
+            "budget",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 19"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/blanket-chest.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Blanket Chest in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.468146Z",
+        "updated_at": "2026-03-16T00:15:18.468164Z"
+    },
+    {
+        "id": 78,
+        "name": "Bluetooth Speaker",
+        "slug": "bluetooth-speaker",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "Bluetooth Speaker designed for modern electronics setups.",
+        "long_description": "Bluetooth Speaker is a premium tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "74.48",
+        "budget_tier": "premium",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 9,
+        "tags": [
+            "electronics",
+            "premium",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 3"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/bluetooth-speaker.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Bluetooth Speaker in the Electronics category",
+        "created_at": "2026-03-16T00:15:18.951148Z",
+        "updated_at": "2026-03-16T00:15:18.951166Z"
+    },
+    {
+        "id": 57,
+        "name": "Bookcase",
+        "slug": "bookcase",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Bookcase designed for modern office setups.",
+        "long_description": "Bookcase is a premium tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "150.98",
+        "budget_tier": "premium",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 18,
+        "tags": [
+            "office",
+            "premium",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 6"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/bookcase.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Bookcase in the Office category",
+        "created_at": "2026-03-16T00:15:18.611410Z",
+        "updated_at": "2026-03-16T00:15:18.611441Z"
+    },
+    {
+        "id": 10,
+        "name": "Bookshelf",
+        "slug": "bookshelf",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Bookshelf designed for modern living room setups.",
+        "long_description": "Bookshelf is a budget tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "150.99",
+        "budget_tier": "budget",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 9,
+        "tags": [
+            "living-room",
+            "budget",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 9"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/bookshelf.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Bookshelf in the Living Room category",
+        "created_at": "2026-03-16T00:15:17.862776Z",
+        "updated_at": "2026-03-16T00:15:17.862795Z"
+    },
+    {
+        "id": 76,
+        "name": "Cable Management Kit",
+        "slug": "cable-management-kit",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Cable Management Kit designed for modern office setups.",
+        "long_description": "Cable Management Kit is a midrange tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "253.99",
+        "budget_tier": "midrange",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 3,
+        "tags": [
+            "office",
+            "midrange",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 25"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/cable-management-kit.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Cable Management Kit in the Office category",
+        "created_at": "2026-03-16T00:15:18.930528Z",
+        "updated_at": "2026-03-16T00:15:18.930545Z"
+    },
+    {
+        "id": 14,
+        "name": "Chaise Lounge",
+        "slug": "chaise-lounge",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Chaise Lounge designed for modern living room setups.",
+        "long_description": "Chaise Lounge is a midrange tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "210.49",
+        "budget_tier": "midrange",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 3,
+        "tags": [
+            "living-room",
+            "midrange",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 13"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/chaise-lounge.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Chaise Lounge in the Living Room category",
+        "created_at": "2026-03-16T00:15:17.924478Z",
+        "updated_at": "2026-03-16T00:15:17.924498Z"
+    },
+    {
+        "id": 31,
+        "name": "Chest of Drawers",
+        "slug": "chest-of-drawers",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Chest of Drawers designed for modern bedroom setups.",
+        "long_description": "Chest of Drawers is a midrange tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "140.99",
+        "budget_tier": "midrange",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 15,
+        "tags": [
+            "bedroom",
+            "midrange",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 5"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/chest-of-drawers.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Chest of Drawers in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.133555Z",
+        "updated_at": "2026-03-16T00:15:18.133576Z"
+    },
+    {
+        "id": 40,
+        "name": "Closet Organizer",
+        "slug": "closet-organizer",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Closet Organizer designed for modern bedroom setups.",
+        "long_description": "Closet Organizer is a midrange tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "203.99",
+        "budget_tier": "midrange",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 6,
+        "tags": [
+            "bedroom",
+            "midrange",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 14"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/closet-organizer.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Closet Organizer in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.208946Z",
+        "updated_at": "2026-03-16T00:15:18.208963Z"
+    },
+    {
+        "id": 6,
+        "name": "Coffee Table",
+        "slug": "coffee-table",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Coffee Table designed for modern living room setups.",
+        "long_description": "Coffee Table is a premium tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "199.48",
+        "budget_tier": "premium",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 15,
+        "tags": [
+            "living-room",
+            "premium",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 5"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/coffee-table.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Coffee Table in the Living Room category",
+        "created_at": "2026-03-16T00:15:17.809024Z",
+        "updated_at": "2026-03-16T00:15:17.809042Z"
+    },
+    {
+        "id": 47,
+        "name": "Compact Wardrobe",
+        "slug": "compact-wardrobe",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Compact Wardrobe designed for modern bedroom setups.",
+        "long_description": "Compact Wardrobe is a premium tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "292.98",
+        "budget_tier": "premium",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 9,
+        "tags": [
+            "bedroom",
+            "premium",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 21"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/compact-wardrobe.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Compact Wardrobe in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.482290Z",
+        "updated_at": "2026-03-16T00:15:18.482308Z"
+    },
+    {
+        "id": 73,
+        "name": "Compact Workstation",
+        "slug": "compact-workstation",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Compact Workstation designed for modern office setups.",
+        "long_description": "Compact Workstation is a midrange tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "232.99",
+        "budget_tier": "midrange",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 12,
+        "tags": [
+            "office",
+            "midrange",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 22"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/compact-workstation.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Compact Workstation in the Office category",
+        "created_at": "2026-03-16T00:15:18.867492Z",
+        "updated_at": "2026-03-16T00:15:18.867511Z"
+    },
+    {
+        "id": 97,
+        "name": "Conference Speakerphone",
+        "slug": "conference-speakerphone",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "Conference Speakerphone designed for modern electronics setups.",
+        "long_description": "Conference Speakerphone is a budget tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "181.99",
+        "budget_tier": "budget",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 12,
+        "tags": [
+            "electronics",
+            "budget",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 22"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/conference-speakerphone.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Conference Speakerphone in the Electronics category",
+        "created_at": "2026-03-16T00:15:19.138134Z",
+        "updated_at": "2026-03-16T00:15:19.138151Z"
+    },
+    {
+        "id": 12,
+        "name": "Console Table",
+        "slug": "console-table",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Console Table designed for modern living room setups.",
+        "long_description": "Console Table is a premium tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "241.48",
+        "budget_tier": "premium",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 15,
+        "tags": [
+            "living-room",
+            "premium",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 11"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/console-table.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Console Table in the Living Room category",
+        "created_at": "2026-03-16T00:15:17.881437Z",
+        "updated_at": "2026-03-16T00:15:17.881454Z"
+    },
+    {
+        "id": 62,
+        "name": "Corner Desk",
+        "slug": "corner-desk",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Corner Desk designed for modern office setups.",
+        "long_description": "Corner Desk is a budget tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "134.99",
+        "budget_tier": "budget",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 15,
+        "tags": [
+            "office",
+            "budget",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 11"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/corner-desk.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Corner Desk in the Office category",
+        "created_at": "2026-03-16T00:15:18.654094Z",
+        "updated_at": "2026-03-16T00:15:18.654113Z"
+    },
+    {
+        "id": 24,
+        "name": "Curio Cabinet",
+        "slug": "curio-cabinet",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Curio Cabinet designed for modern living room setups.",
+        "long_description": "Curio Cabinet is a premium tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "325.48",
+        "budget_tier": "premium",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 15,
+        "tags": [
+            "living-room",
+            "premium",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 23"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/curio-cabinet.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Curio Cabinet in the Living Room category",
+        "created_at": "2026-03-16T00:15:18.033121Z",
+        "updated_at": "2026-03-16T00:15:18.033140Z"
+    },
+    {
+        "id": 71,
+        "name": "Desk Hutch",
+        "slug": "desk-hutch",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Desk Hutch designed for modern office setups.",
+        "long_description": "Desk Hutch is a budget tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "197.99",
+        "budget_tier": "budget",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 6,
+        "tags": [
+            "office",
+            "budget",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 20"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/desk-hutch.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Desk Hutch in the Office category",
+        "created_at": "2026-03-16T00:15:18.823089Z",
+        "updated_at": "2026-03-16T00:15:18.823108Z"
+    },
+    {
+        "id": 59,
+        "name": "Desk Lamp",
+        "slug": "desk-lamp",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Desk Lamp designed for modern office setups.",
+        "long_description": "Desk Lamp is a budget tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "113.99",
+        "budget_tier": "budget",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 6,
+        "tags": [
+            "office",
+            "budget",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 8"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/desk-lamp.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Desk Lamp in the Office category",
+        "created_at": "2026-03-16T00:15:18.625218Z",
+        "updated_at": "2026-03-16T00:15:18.625234Z"
+    },
+    {
+        "id": 30,
+        "name": "Dresser",
+        "slug": "dresser",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Dresser designed for modern bedroom setups.",
+        "long_description": "Dresser is a budget tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "105.99",
+        "budget_tier": "budget",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 12,
+        "tags": [
+            "bedroom",
+            "budget",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 4"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/dresser.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Dresser in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.106341Z",
+        "updated_at": "2026-03-16T00:15:18.106360Z"
+    },
+    {
+        "id": 100,
+        "name": "Electronics Bundle",
+        "slug": "electronics-bundle",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "Electronics Bundle designed for modern electronics setups.",
+        "long_description": "Electronics Bundle is a budget tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "202.99",
+        "budget_tier": "budget",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 3,
+        "tags": [
+            "electronics",
+            "budget",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 25"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/electronics-bundle.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Electronics Bundle in the Electronics category",
+        "created_at": "2026-03-16T00:15:19.159643Z",
+        "updated_at": "2026-03-16T00:15:19.159660Z"
+    },
+    {
+        "id": 21,
+        "name": "Entertainment Unit",
+        "slug": "entertainment-unit",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Entertainment Unit designed for modern living room setups.",
+        "long_description": "Entertainment Unit is a premium tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "304.48",
+        "budget_tier": "premium",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 6,
+        "tags": [
+            "living-room",
+            "premium",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 20"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/entertainment-unit.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Entertainment Unit in the Living Room category",
+        "created_at": "2026-03-16T00:15:17.974563Z",
+        "updated_at": "2026-03-16T00:15:17.974580Z"
+    },
+    {
+        "id": 56,
+        "name": "Ergonomic Chair",
+        "slug": "ergonomic-chair",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Ergonomic Chair designed for modern office setups.",
+        "long_description": "Ergonomic Chair is a budget tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "92.99",
+        "budget_tier": "budget",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 15,
+        "tags": [
+            "office",
+            "budget",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 5"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/ergonomic-chair.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Ergonomic Chair in the Office category",
+        "created_at": "2026-03-16T00:15:18.605304Z",
+        "updated_at": "2026-03-16T00:15:18.605320Z"
+    },
+    {
+        "id": 54,
+        "name": "Executive Desk",
+        "slug": "executive-desk",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Executive Desk designed for modern office setups.",
+        "long_description": "Executive Desk is a premium tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "129.98",
+        "budget_tier": "premium",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 9,
+        "tags": [
+            "office",
+            "premium",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 3"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/executive-desk.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Executive Desk in the Office category",
+        "created_at": "2026-03-16T00:15:18.574773Z",
+        "updated_at": "2026-03-16T00:15:18.574791Z"
+    },
+    {
+        "id": 58,
+        "name": "Filing Cabinet",
+        "slug": "filing-cabinet",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Filing Cabinet designed for modern office setups.",
+        "long_description": "Filing Cabinet is a midrange tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "127.99",
+        "budget_tier": "midrange",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 3,
+        "tags": [
+            "office",
+            "midrange",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 7"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/filing-cabinet.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Filing Cabinet in the Office category",
+        "created_at": "2026-03-16T00:15:18.618823Z",
+        "updated_at": "2026-03-16T00:15:18.618841Z"
+    },
+    {
+        "id": 20,
+        "name": "Fireplace Console",
+        "slug": "fireplace-console",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Fireplace Console designed for modern living room setups.",
+        "long_description": "Fireplace Console is a midrange tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "252.49",
+        "budget_tier": "midrange",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 3,
+        "tags": [
+            "living-room",
+            "midrange",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 19"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/fireplace-console.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Fireplace Console in the Living Room category",
+        "created_at": "2026-03-16T00:15:17.967307Z",
+        "updated_at": "2026-03-16T00:15:17.967325Z"
+    },
+    {
+        "id": 15,
+        "name": "Floor Lamp",
+        "slug": "floor-lamp",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Floor Lamp designed for modern living room setups.",
+        "long_description": "Floor Lamp is a premium tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "262.48",
+        "budget_tier": "premium",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 6,
+        "tags": [
+            "living-room",
+            "premium",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 14"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/floor-lamp.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Floor Lamp in the Living Room category",
+        "created_at": "2026-03-16T00:15:17.932011Z",
+        "updated_at": "2026-03-16T00:15:17.932033Z"
+    },
+    {
+        "id": 44,
+        "name": "Jewelry Armoire",
+        "slug": "jewelry-armoire",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Jewelry Armoire designed for modern bedroom setups.",
+        "long_description": "Jewelry Armoire is a premium tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "271.98",
+        "budget_tier": "premium",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 18,
+        "tags": [
+            "bedroom",
+            "premium",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 18"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/jewelry-armoire.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Jewelry Armoire in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.411114Z",
+        "updated_at": "2026-03-16T00:15:18.411131Z"
+    },
+    {
+        "id": 68,
+        "name": "Keyboard Tray Desk",
+        "slug": "keyboard-tray-desk",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Keyboard Tray Desk designed for modern office setups.",
+        "long_description": "Keyboard Tray Desk is a budget tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "176.99",
+        "budget_tier": "budget",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 15,
+        "tags": [
+            "office",
+            "budget",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 17"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/keyboard-tray-desk.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Keyboard Tray Desk in the Office category",
+        "created_at": "2026-03-16T00:15:18.797202Z",
+        "updated_at": "2026-03-16T00:15:18.797221Z"
+    },
+    {
+        "id": 37,
+        "name": "King Headboard",
+        "slug": "king-headboard",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "King Headboard designed for modern bedroom setups.",
+        "long_description": "King Headboard is a midrange tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "182.99",
+        "budget_tier": "midrange",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 15,
+        "tags": [
+            "bedroom",
+            "midrange",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 11"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/king-headboard.jpg",
+        "gallery_images": [],
+        "image_alt_text": "King Headboard in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.190042Z",
+        "updated_at": "2026-03-16T00:15:18.190060Z"
+    },
+    {
+        "id": 87,
+        "name": "LED Desk Light",
+        "slug": "led-desk-light",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "LED Desk Light designed for modern electronics setups.",
+        "long_description": "LED Desk Light is a premium tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "137.48",
+        "budget_tier": "premium",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 18,
+        "tags": [
+            "electronics",
+            "premium",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 12"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/led-desk-light.jpg",
+        "gallery_images": [],
+        "image_alt_text": "LED Desk Light in the Electronics category",
+        "created_at": "2026-03-16T00:15:19.064000Z",
+        "updated_at": "2026-03-16T00:15:19.064020Z"
+    },
+    {
+        "id": 63,
+        "name": "Laptop Cart",
+        "slug": "laptop-cart",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Laptop Cart designed for modern office setups.",
+        "long_description": "Laptop Cart is a premium tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "192.98",
+        "budget_tier": "premium",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 18,
+        "tags": [
+            "office",
+            "premium",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 12"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/laptop-cart.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Laptop Cart in the Office category",
+        "created_at": "2026-03-16T00:15:18.668595Z",
+        "updated_at": "2026-03-16T00:15:18.668617Z"
+    },
+    {
+        "id": 95,
+        "name": "Laptop Cooling Pad",
+        "slug": "laptop-cooling-pad",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "Laptop Cooling Pad designed for modern electronics setups.",
+        "long_description": "Laptop Cooling Pad is a midrange tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "178.49",
+        "budget_tier": "midrange",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 6,
+        "tags": [
+            "electronics",
+            "midrange",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 20"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/laptop-cooling-pad.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Laptop Cooling Pad in the Electronics category",
+        "created_at": "2026-03-16T00:15:19.125850Z",
+        "updated_at": "2026-03-16T00:15:19.125867Z"
+    },
+    {
+        "id": 43,
+        "name": "Linen Cabinet",
+        "slug": "linen-cabinet",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Linen Cabinet designed for modern bedroom setups.",
+        "long_description": "Linen Cabinet is a midrange tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "224.99",
+        "budget_tier": "midrange",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 15,
+        "tags": [
+            "bedroom",
+            "midrange",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 17"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/linen-cabinet.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Linen Cabinet in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.404887Z",
+        "updated_at": "2026-03-16T00:15:18.404905Z"
+    },
+    {
+        "id": 26,
+        "name": "Living Room Bundle",
+        "slug": "living-room-bundle",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Living Room Bundle designed for modern living room setups.",
+        "long_description": "Living Room Bundle is a midrange tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "294.49",
+        "budget_tier": "midrange",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 3,
+        "tags": [
+            "living-room",
+            "midrange",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 25"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/living-room-bundle.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Living Room Bundle in the Living Room category",
+        "created_at": "2026-03-16T00:15:18.048272Z",
+        "updated_at": "2026-03-16T00:15:18.048289Z"
+    },
+    {
+        "id": 13,
+        "name": "Loveseat",
+        "slug": "loveseat",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Loveseat designed for modern living room setups.",
+        "long_description": "Loveseat is a budget tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "171.99",
+        "budget_tier": "budget",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 18,
+        "tags": [
+            "living-room",
+            "budget",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 12"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/loveseat.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Loveseat in the Living Room category",
+        "created_at": "2026-03-16T00:15:17.888621Z",
+        "updated_at": "2026-03-16T00:15:17.888638Z"
+    },
+    {
+        "id": 38,
+        "name": "Mattress Base",
+        "slug": "mattress-base",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Mattress Base designed for modern bedroom setups.",
+        "long_description": "Mattress Base is a premium tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "229.98",
+        "budget_tier": "premium",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 18,
+        "tags": [
+            "bedroom",
+            "premium",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 12"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/mattress-base.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Mattress Base in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.195978Z",
+        "updated_at": "2026-03-16T00:15:18.195996Z"
+    },
+    {
+        "id": 83,
+        "name": "Mechanical Keyboard",
+        "slug": "mechanical-keyboard",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "Mechanical Keyboard designed for modern electronics setups.",
+        "long_description": "Mechanical Keyboard is a midrange tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "94.49",
+        "budget_tier": "midrange",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 6,
+        "tags": [
+            "electronics",
+            "midrange",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 8"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/mechanical-keyboard.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Mechanical Keyboard in the Electronics category",
+        "created_at": "2026-03-16T00:15:19.002498Z",
+        "updated_at": "2026-03-16T00:15:19.002535Z"
+    },
+    {
+        "id": 9,
+        "name": "Media Console",
+        "slug": "media-console",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Media Console designed for modern living room setups.",
+        "long_description": "Media Console is a premium tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "220.48",
+        "budget_tier": "premium",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 6,
+        "tags": [
+            "living-room",
+            "premium",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 8"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/media-console.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Media Console in the Living Room category",
+        "created_at": "2026-03-16T00:15:17.855992Z",
+        "updated_at": "2026-03-16T00:15:17.856014Z"
+    },
+    {
+        "id": 64,
+        "name": "Meeting Table",
+        "slug": "meeting-table",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Meeting Table designed for modern office setups.",
+        "long_description": "Meeting Table is a midrange tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "169.99",
+        "budget_tier": "midrange",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 3,
+        "tags": [
+            "office",
+            "midrange",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 13"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/meeting-table.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Meeting Table in the Office category",
+        "created_at": "2026-03-16T00:15:18.689923Z",
+        "updated_at": "2026-03-16T00:15:18.689941Z"
+    },
+    {
+        "id": 91,
+        "name": "Mesh WiFi Node",
+        "slug": "mesh-wifi-node",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "Mesh WiFi Node designed for modern electronics setups.",
+        "long_description": "Mesh WiFi Node is a budget tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "139.99",
+        "budget_tier": "budget",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 12,
+        "tags": [
+            "electronics",
+            "budget",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 16"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/mesh-wifi-node.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Mesh WiFi Node in the Electronics category",
+        "created_at": "2026-03-16T00:15:19.099656Z",
+        "updated_at": "2026-03-16T00:15:19.099674Z"
+    },
+    {
+        "id": 89,
+        "name": "Mini Projector",
+        "slug": "mini-projector",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "Mini Projector designed for modern electronics setups.",
+        "long_description": "Mini Projector is a midrange tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "136.49",
+        "budget_tier": "midrange",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 6,
+        "tags": [
+            "electronics",
+            "midrange",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 14"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/mini-projector.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Mini Projector in the Electronics category",
+        "created_at": "2026-03-16T00:15:19.084644Z",
+        "updated_at": "2026-03-16T00:15:19.084661Z"
+    },
+    {
+        "id": 39,
+        "name": "Mirror Dresser",
+        "slug": "mirror-dresser",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Mirror Dresser designed for modern bedroom setups.",
+        "long_description": "Mirror Dresser is a budget tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "168.99",
+        "budget_tier": "budget",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 3,
+        "tags": [
+            "bedroom",
+            "budget",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 13"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/mirror-dresser.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Mirror Dresser in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.202073Z",
+        "updated_at": "2026-03-16T00:15:18.202145Z"
+    },
+    {
+        "id": 2,
+        "name": "Modern Sofa",
+        "slug": "modern-sofa",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Modern Sofa designed for modern living room setups.",
+        "long_description": "Modern Sofa is a midrange tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "126.49",
+        "budget_tier": "midrange",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 3,
+        "tags": [
+            "living-room",
+            "midrange",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 1"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/modern-sofa.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Modern Sofa in the Living Room category",
+        "created_at": "2026-03-16T00:15:17.766771Z",
+        "updated_at": "2026-03-16T00:15:17.766799Z"
+    },
+    {
+        "id": 94,
+        "name": "Monitor",
+        "slug": "monitor",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "Monitor designed for modern electronics setups.",
+        "long_description": "Monitor is a budget tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "160.99",
+        "budget_tier": "budget",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 3,
+        "tags": [
+            "electronics",
+            "budget",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 19"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/monitor.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Monitor in the Electronics category",
+        "created_at": "2026-03-16T00:15:19.118749Z",
+        "updated_at": "2026-03-16T00:15:19.118822Z"
+    },
+    {
+        "id": 82,
+        "name": "Monitor Light Bar",
+        "slug": "monitor-light-bar",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "Monitor Light Bar designed for modern electronics setups.",
+        "long_description": "Monitor Light Bar is a budget tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "76.99",
+        "budget_tier": "budget",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 3,
+        "tags": [
+            "electronics",
+            "budget",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 7"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/monitor-light-bar.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Monitor Light Bar in the Electronics category",
+        "created_at": "2026-03-16T00:15:18.996193Z",
+        "updated_at": "2026-03-16T00:15:18.996211Z"
+    },
+    {
+        "id": 60,
+        "name": "Monitor Stand",
+        "slug": "monitor-stand",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Monitor Stand designed for modern office setups.",
+        "long_description": "Monitor Stand is a premium tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "171.98",
+        "budget_tier": "premium",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 9,
+        "tags": [
+            "office",
+            "premium",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 9"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/monitor-stand.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Monitor Stand in the Office category",
+        "created_at": "2026-03-16T00:15:18.639802Z",
+        "updated_at": "2026-03-16T00:15:18.639819Z"
+    },
+    {
+        "id": 19,
+        "name": "Nest Tables",
+        "slug": "nest-tables",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Nest Tables designed for modern living room setups.",
+        "long_description": "Nest Tables is a budget tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "213.99",
+        "budget_tier": "budget",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 18,
+        "tags": [
+            "living-room",
+            "budget",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 18"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/nest-tables.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Nest Tables in the Living Room category",
+        "created_at": "2026-03-16T00:15:17.960582Z",
+        "updated_at": "2026-03-16T00:15:17.960600Z"
+    },
+    {
+        "id": 29,
+        "name": "Nightstand",
+        "slug": "nightstand",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Nightstand designed for modern bedroom setups.",
+        "long_description": "Nightstand is a premium tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "166.98",
+        "budget_tier": "premium",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 9,
+        "tags": [
+            "bedroom",
+            "premium",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 3"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/nightstand.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Nightstand in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.097740Z",
+        "updated_at": "2026-03-16T00:15:18.097759Z"
+    },
+    {
+        "id": 79,
+        "name": "Noise Cancelling Headphones",
+        "slug": "noise-cancelling-headphones",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "Noise Cancelling Headphones designed for modern electronics setups.",
+        "long_description": "Noise Cancelling Headphones is a budget tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "55.99",
+        "budget_tier": "budget",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 12,
+        "tags": [
+            "electronics",
+            "budget",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 4"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/noise-cancelling-headphones.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Noise Cancelling Headphones in the Electronics category",
+        "created_at": "2026-03-16T00:15:18.969759Z",
+        "updated_at": "2026-03-16T00:15:18.969776Z"
+    },
+    {
+        "id": 74,
+        "name": "Office Bundle",
+        "slug": "office-bundle",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Office Bundle designed for modern office setups.",
+        "long_description": "Office Bundle is a budget tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "218.99",
+        "budget_tier": "budget",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 15,
+        "tags": [
+            "office",
+            "budget",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 23"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/office-bundle.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Office Bundle in the Office category",
+        "created_at": "2026-03-16T00:15:18.874914Z",
+        "updated_at": "2026-03-16T00:15:18.874934Z"
+    },
+    {
+        "id": 55,
+        "name": "Office Chair",
+        "slug": "office-chair",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Office Chair designed for modern office setups.",
+        "long_description": "Office Chair is a midrange tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "106.99",
+        "budget_tier": "midrange",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 12,
+        "tags": [
+            "office",
+            "midrange",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 4"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/office-chair.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Office Chair in the Office category",
+        "created_at": "2026-03-16T00:15:18.599672Z",
+        "updated_at": "2026-03-16T00:15:18.599689Z"
+    },
+    {
+        "id": 69,
+        "name": "Office Ottoman",
+        "slug": "office-ottoman",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Office Ottoman designed for modern office setups.",
+        "long_description": "Office Ottoman is a premium tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "234.98",
+        "budget_tier": "premium",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 18,
+        "tags": [
+            "office",
+            "premium",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 18"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/office-ottoman.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Office Ottoman in the Office category",
+        "created_at": "2026-03-16T00:15:18.803526Z",
+        "updated_at": "2026-03-16T00:15:18.803544Z"
+    },
+    {
+        "id": 11,
+        "name": "Ottoman",
+        "slug": "ottoman",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Ottoman designed for modern living room setups.",
+        "long_description": "Ottoman is a midrange tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "189.49",
+        "budget_tier": "midrange",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 12,
+        "tags": [
+            "living-room",
+            "midrange",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 10"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/ottoman.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Ottoman in the Living Room category",
+        "created_at": "2026-03-16T00:15:17.869094Z",
+        "updated_at": "2026-03-16T00:15:17.869112Z"
+    },
+    {
+        "id": 51,
+        "name": "Padded Accent Stool",
+        "slug": "padded-accent-stool",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Padded Accent Stool designed for modern bedroom setups.",
+        "long_description": "Padded Accent Stool is a budget tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "252.99",
+        "budget_tier": "budget",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 3,
+        "tags": [
+            "bedroom",
+            "budget",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 25"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/padded-accent-stool.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Padded Accent Stool in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.526799Z",
+        "updated_at": "2026-03-16T00:15:18.526816Z"
+    },
+    {
+        "id": 27,
+        "name": "Platform Bed",
+        "slug": "platform-bed",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Platform Bed designed for modern bedroom setups.",
+        "long_description": "Platform Bed is a budget tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "84.99",
+        "budget_tier": "budget",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 3,
+        "tags": [
+            "bedroom",
+            "budget",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 1"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/platform-bed.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Platform Bed in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.068805Z",
+        "updated_at": "2026-03-16T00:15:18.068828Z"
+    },
+    {
+        "id": 84,
+        "name": "Portable SSD",
+        "slug": "portable-ssd",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "Portable SSD designed for modern electronics setups.",
+        "long_description": "Portable SSD is a premium tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "116.48",
+        "budget_tier": "premium",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 9,
+        "tags": [
+            "electronics",
+            "premium",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 9"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/portable-ssd.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Portable SSD in the Electronics category",
+        "created_at": "2026-03-16T00:15:19.009950Z",
+        "updated_at": "2026-03-16T00:15:19.009966Z"
+    },
+    {
+        "id": 99,
+        "name": "Power Bank",
+        "slug": "power-bank",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "Power Bank designed for modern electronics setups.",
+        "long_description": "Power Bank is a premium tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "221.48",
+        "budget_tier": "premium",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 18,
+        "tags": [
+            "electronics",
+            "premium",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 24"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/power-bank.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Power Bank in the Electronics category",
+        "created_at": "2026-03-16T00:15:19.150498Z",
+        "updated_at": "2026-03-16T00:15:19.150515Z"
+    },
+    {
+        "id": 61,
+        "name": "Printer Table",
+        "slug": "printer-table",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Printer Table designed for modern office setups.",
+        "long_description": "Printer Table is a midrange tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "148.99",
+        "budget_tier": "midrange",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 12,
+        "tags": [
+            "office",
+            "midrange",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 10"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/printer-table.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Printer Table in the Office category",
+        "created_at": "2026-03-16T00:15:18.647532Z",
+        "updated_at": "2026-03-16T00:15:18.647553Z"
+    },
+    {
+        "id": 36,
+        "name": "Queen Headboard",
+        "slug": "queen-headboard",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Queen Headboard designed for modern bedroom setups.",
+        "long_description": "Queen Headboard is a budget tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "147.99",
+        "budget_tier": "budget",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 12,
+        "tags": [
+            "bedroom",
+            "budget",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 10"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/queen-headboard.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Queen Headboard in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.183016Z",
+        "updated_at": "2026-03-16T00:15:18.183034Z"
+    },
+    {
+        "id": 22,
+        "name": "Reading Chair",
+        "slug": "reading-chair",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Reading Chair designed for modern living room setups.",
+        "long_description": "Reading Chair is a budget tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "234.99",
+        "budget_tier": "budget",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 9,
+        "tags": [
+            "living-room",
+            "budget",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 21"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/reading-chair.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Reading Chair in the Living Room category",
+        "created_at": "2026-03-16T00:15:17.980696Z",
+        "updated_at": "2026-03-16T00:15:17.980713Z"
+    },
+    {
+        "id": 46,
+        "name": "Reading Lamp",
+        "slug": "reading-lamp",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Reading Lamp designed for modern bedroom setups.",
+        "long_description": "Reading Lamp is a midrange tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "245.99",
+        "budget_tier": "midrange",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 6,
+        "tags": [
+            "bedroom",
+            "midrange",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 20"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/reading-lamp.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Reading Lamp in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.475281Z",
+        "updated_at": "2026-03-16T00:15:18.475298Z"
+    },
+    {
+        "id": 65,
+        "name": "Reception Chair",
+        "slug": "reception-chair",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Reception Chair designed for modern office setups.",
+        "long_description": "Reception Chair is a budget tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "155.99",
+        "budget_tier": "budget",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 6,
+        "tags": [
+            "office",
+            "budget",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 14"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/reception-chair.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Reception Chair in the Office category",
+        "created_at": "2026-03-16T00:15:18.756046Z",
+        "updated_at": "2026-03-16T00:15:18.756063Z"
+    },
+    {
+        "id": 5,
+        "name": "Recliner Chair",
+        "slug": "recliner-chair",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Recliner Chair designed for modern living room setups.",
+        "long_description": "Recliner Chair is a midrange tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "147.49",
+        "budget_tier": "midrange",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 12,
+        "tags": [
+            "living-room",
+            "midrange",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 4"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/recliner-chair.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Recliner Chair in the Living Room category",
+        "created_at": "2026-03-16T00:15:17.803039Z",
+        "updated_at": "2026-03-16T00:15:17.803056Z"
+    },
+    {
+        "id": 25,
+        "name": "Room Divider",
+        "slug": "room-divider",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Room Divider designed for modern living room setups.",
+        "long_description": "Room Divider is a budget tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "255.99",
+        "budget_tier": "budget",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 18,
+        "tags": [
+            "living-room",
+            "budget",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 24"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/room-divider.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Room Divider in the Living Room category",
+        "created_at": "2026-03-16T00:15:18.042228Z",
+        "updated_at": "2026-03-16T00:15:18.042245Z"
+    },
+    {
+        "id": 90,
+        "name": "Router",
+        "slug": "router",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "Router designed for modern electronics setups.",
+        "long_description": "Router is a premium tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "158.48",
+        "budget_tier": "premium",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 9,
+        "tags": [
+            "electronics",
+            "premium",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 15"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/router.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Router in the Electronics category",
+        "created_at": "2026-03-16T00:15:19.092500Z",
+        "updated_at": "2026-03-16T00:15:19.092517Z"
+    },
+    {
+        "id": 3,
+        "name": "Sectional Couch",
+        "slug": "sectional-couch",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Sectional Couch designed for modern living room setups.",
+        "long_description": "Sectional Couch is a premium tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "178.48",
+        "budget_tier": "premium",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 6,
+        "tags": [
+            "living-room",
+            "premium",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 2"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/sectional-couch.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Sectional Couch in the Living Room category",
+        "created_at": "2026-03-16T00:15:17.790628Z",
+        "updated_at": "2026-03-16T00:15:17.790645Z"
+    },
+    {
+        "id": 98,
+        "name": "Security Camera",
+        "slug": "security-camera",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "Security Camera designed for modern electronics setups.",
+        "long_description": "Security Camera is a midrange tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "199.49",
+        "budget_tier": "midrange",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 15,
+        "tags": [
+            "electronics",
+            "midrange",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 23"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/security-camera.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Security Camera in the Electronics category",
+        "created_at": "2026-03-16T00:15:19.143962Z",
+        "updated_at": "2026-03-16T00:15:19.143978Z"
+    },
+    {
+        "id": 7,
+        "name": "Side Table",
+        "slug": "side-table",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Side Table designed for modern living room setups.",
+        "long_description": "Side Table is a budget tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "129.99",
+        "budget_tier": "budget",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 18,
+        "tags": [
+            "living-room",
+            "budget",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 6"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/side-table.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Side Table in the Living Room category",
+        "created_at": "2026-03-16T00:15:17.816475Z",
+        "updated_at": "2026-03-16T00:15:17.816492Z"
+    },
+    {
+        "id": 49,
+        "name": "Smart Alarm Stand",
+        "slug": "smart-alarm-stand",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Smart Alarm Stand designed for modern bedroom setups.",
+        "long_description": "Smart Alarm Stand is a midrange tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "266.99",
+        "budget_tier": "midrange",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 15,
+        "tags": [
+            "bedroom",
+            "midrange",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 23"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/smart-alarm-stand.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Smart Alarm Stand in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.512694Z",
+        "updated_at": "2026-03-16T00:15:18.512711Z"
+    },
+    {
+        "id": 96,
+        "name": "Smart Display",
+        "slug": "smart-display",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "Smart Display designed for modern electronics setups.",
+        "long_description": "Smart Display is a premium tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "200.48",
+        "budget_tier": "premium",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 9,
+        "tags": [
+            "electronics",
+            "premium",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 21"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/smart-display.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Smart Display in the Electronics category",
+        "created_at": "2026-03-16T00:15:19.131538Z",
+        "updated_at": "2026-03-16T00:15:19.131556Z"
+    },
+    {
+        "id": 86,
+        "name": "Smart Plug",
+        "slug": "smart-plug",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "Smart Plug designed for modern electronics setups.",
+        "long_description": "Smart Plug is a midrange tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "115.49",
+        "budget_tier": "midrange",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 15,
+        "tags": [
+            "electronics",
+            "midrange",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 11"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/smart-plug.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Smart Plug in the Electronics category",
+        "created_at": "2026-03-16T00:15:19.057705Z",
+        "updated_at": "2026-03-16T00:15:19.057722Z"
+    },
+    {
+        "id": 23,
+        "name": "Sofa Bed",
+        "slug": "sofa-bed",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Sofa Bed designed for modern living room setups.",
+        "long_description": "Sofa Bed is a midrange tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "273.49",
+        "budget_tier": "midrange",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 12,
+        "tags": [
+            "living-room",
+            "midrange",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 22"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/sofa-bed.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Sofa Bed in the Living Room category",
+        "created_at": "2026-03-16T00:15:18.025860Z",
+        "updated_at": "2026-03-16T00:15:18.025882Z"
+    },
+    {
+        "id": 53,
+        "name": "Standing Desk",
+        "slug": "standing-desk",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Standing Desk designed for modern office setups.",
+        "long_description": "Standing Desk is a budget tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "71.99",
+        "budget_tier": "budget",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 6,
+        "tags": [
+            "office",
+            "budget",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 2"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/standing-desk.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Standing Desk in the Office category",
+        "created_at": "2026-03-16T00:15:18.568271Z",
+        "updated_at": "2026-03-16T00:15:18.568289Z"
+    },
+    {
+        "id": 28,
+        "name": "Storage Bed",
+        "slug": "storage-bed",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Storage Bed designed for modern bedroom setups.",
+        "long_description": "Storage Bed is a midrange tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "119.99",
+        "budget_tier": "midrange",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 6,
+        "tags": [
+            "bedroom",
+            "midrange",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 2"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/storage-bed.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Storage Bed in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.091622Z",
+        "updated_at": "2026-03-16T00:15:18.091640Z"
+    },
+    {
+        "id": 18,
+        "name": "Storage Bench",
+        "slug": "storage-bench",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Storage Bench designed for modern living room setups.",
+        "long_description": "Storage Bench is a premium tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "283.48",
+        "budget_tier": "premium",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 15,
+        "tags": [
+            "living-room",
+            "premium",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 17"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/storage-bench.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Storage Bench in the Living Room category",
+        "created_at": "2026-03-16T00:15:17.953752Z",
+        "updated_at": "2026-03-16T00:15:17.953770Z"
+    },
+    {
+        "id": 66,
+        "name": "Storage Cabinet",
+        "slug": "storage-cabinet",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Storage Cabinet designed for modern office setups.",
+        "long_description": "Storage Cabinet is a premium tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "213.98",
+        "budget_tier": "premium",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 9,
+        "tags": [
+            "office",
+            "premium",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 15"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/storage-cabinet.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Storage Cabinet in the Office category",
+        "created_at": "2026-03-16T00:15:18.777945Z",
+        "updated_at": "2026-03-16T00:15:18.777962Z"
+    },
+    {
+        "id": 88,
+        "name": "Streaming Microphone",
+        "slug": "streaming-microphone",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "Streaming Microphone designed for modern electronics setups.",
+        "long_description": "Streaming Microphone is a budget tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "118.99",
+        "budget_tier": "budget",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 3,
+        "tags": [
+            "electronics",
+            "budget",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 13"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/streaming-microphone.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Streaming Microphone in the Electronics category",
+        "created_at": "2026-03-16T00:15:19.070570Z",
+        "updated_at": "2026-03-16T00:15:19.070587Z"
+    },
+    {
+        "id": 93,
+        "name": "Surge Protector",
+        "slug": "surge-protector",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "Surge Protector designed for modern electronics setups.",
+        "long_description": "Surge Protector is a premium tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "179.48",
+        "budget_tier": "premium",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 18,
+        "tags": [
+            "electronics",
+            "premium",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 18"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/surge-protector.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Surge Protector in the Electronics category",
+        "created_at": "2026-03-16T00:15:19.112018Z",
+        "updated_at": "2026-03-16T00:15:19.112037Z"
+    },
+    {
+        "id": 8,
+        "name": "TV Stand",
+        "slug": "tv-stand",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "TV Stand designed for modern living room setups.",
+        "long_description": "TV Stand is a midrange tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "168.49",
+        "budget_tier": "midrange",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 3,
+        "tags": [
+            "living-room",
+            "midrange",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 7"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/tv-stand.jpg",
+        "gallery_images": [],
+        "image_alt_text": "TV Stand in the Living Room category",
+        "created_at": "2026-03-16T00:15:17.822677Z",
+        "updated_at": "2026-03-16T00:15:17.822694Z"
+    },
+    {
+        "id": 92,
+        "name": "Tablet Stand",
+        "slug": "tablet-stand",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "Tablet Stand designed for modern electronics setups.",
+        "long_description": "Tablet Stand is a midrange tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "157.49",
+        "budget_tier": "midrange",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 15,
+        "tags": [
+            "electronics",
+            "midrange",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 17"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/tablet-stand.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Tablet Stand in the Electronics category",
+        "created_at": "2026-03-16T00:15:19.106118Z",
+        "updated_at": "2026-03-16T00:15:19.106135Z"
+    },
+    {
+        "id": 70,
+        "name": "Task Chair",
+        "slug": "task-chair",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Task Chair designed for modern office setups.",
+        "long_description": "Task Chair is a midrange tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "211.99",
+        "budget_tier": "midrange",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 3,
+        "tags": [
+            "office",
+            "midrange",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 19"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/task-chair.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Task Chair in the Office category",
+        "created_at": "2026-03-16T00:15:18.816947Z",
+        "updated_at": "2026-03-16T00:15:18.816965Z"
+    },
+    {
+        "id": 81,
+        "name": "USB-C Dock",
+        "slug": "usb-c-dock",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "USB-C Dock designed for modern electronics setups.",
+        "long_description": "USB-C Dock is a premium tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "95.48",
+        "budget_tier": "premium",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 18,
+        "tags": [
+            "electronics",
+            "premium",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 6"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/usb-c-dock.jpg",
+        "gallery_images": [],
+        "image_alt_text": "USB-C Dock in the Electronics category",
+        "created_at": "2026-03-16T00:15:18.981881Z",
+        "updated_at": "2026-03-16T00:15:18.981898Z"
+    },
+    {
+        "id": 50,
+        "name": "Underbed Storage Set",
+        "slug": "underbed-storage-set",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Underbed Storage Set designed for modern bedroom setups.",
+        "long_description": "Underbed Storage Set is a premium tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "313.98",
+        "budget_tier": "premium",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 18,
+        "tags": [
+            "bedroom",
+            "premium",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 24"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/underbed-storage-set.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Underbed Storage Set in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.519524Z",
+        "updated_at": "2026-03-16T00:15:18.519541Z"
+    },
+    {
+        "id": 33,
+        "name": "Vanity Table",
+        "slug": "vanity-table",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Vanity Table designed for modern bedroom setups.",
+        "long_description": "Vanity Table is a budget tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "126.99",
+        "budget_tier": "budget",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 3,
+        "tags": [
+            "bedroom",
+            "budget",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 7"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/vanity-table.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Vanity Table in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.154747Z",
+        "updated_at": "2026-03-16T00:15:18.154764Z"
+    },
+    {
+        "id": 67,
+        "name": "Wall Organizer",
+        "slug": "wall-organizer",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Wall Organizer designed for modern office setups.",
+        "long_description": "Wall Organizer is a midrange tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "190.99",
+        "budget_tier": "midrange",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 12,
+        "tags": [
+            "office",
+            "midrange",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 16"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/wall-organizer.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Wall Organizer in the Office category",
+        "created_at": "2026-03-16T00:15:18.784963Z",
+        "updated_at": "2026-03-16T00:15:18.784982Z"
+    },
+    {
+        "id": 17,
+        "name": "Wall Shelf",
+        "slug": "wall-shelf",
+        "category": {
+            "id": 1,
+            "name": "Living Room",
+            "slug": "living-room"
+        },
+        "short_description": "Wall Shelf designed for modern living room setups.",
+        "long_description": "Wall Shelf is a midrange tier product built for living room use. It is best suited for large spaces and balances function, comfort, and durability.",
+        "price": "231.49",
+        "budget_tier": "midrange",
+        "space_requirement": "large",
+        "in_stock": true,
+        "quantity_available": 12,
+        "tags": [
+            "living-room",
+            "midrange",
+            "large",
+            "megamart"
+        ],
+        "features": [
+            "Easy assembly",
+            "Durable finish",
+            "Modern silhouette",
+            "Model series 16"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/wall-shelf.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Wall Shelf in the Living Room category",
+        "created_at": "2026-03-16T00:15:17.946046Z",
+        "updated_at": "2026-03-16T00:15:17.946064Z"
+    },
+    {
+        "id": 32,
+        "name": "Wardrobe Cabinet",
+        "slug": "wardrobe-cabinet",
+        "category": {
+            "id": 2,
+            "name": "Bedroom",
+            "slug": "bedroom"
+        },
+        "short_description": "Wardrobe Cabinet designed for modern bedroom setups.",
+        "long_description": "Wardrobe Cabinet is a premium tier product built for bedroom use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "187.98",
+        "budget_tier": "premium",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 18,
+        "tags": [
+            "bedroom",
+            "premium",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Comfort focused",
+            "Storage friendly",
+            "Clean design",
+            "Model series 6"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/wardrobe-cabinet.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Wardrobe Cabinet in the Bedroom category",
+        "created_at": "2026-03-16T00:15:18.141256Z",
+        "updated_at": "2026-03-16T00:15:18.141277Z"
+    },
+    {
+        "id": 80,
+        "name": "Webcam",
+        "slug": "webcam",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "Webcam designed for modern electronics setups.",
+        "long_description": "Webcam is a midrange tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "73.49",
+        "budget_tier": "midrange",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 15,
+        "tags": [
+            "electronics",
+            "midrange",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 5"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/webcam.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Webcam in the Electronics category",
+        "created_at": "2026-03-16T00:15:18.975783Z",
+        "updated_at": "2026-03-16T00:15:18.975799Z"
+    },
+    {
+        "id": 72,
+        "name": "Whiteboard Stand",
+        "slug": "whiteboard-stand",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Whiteboard Stand designed for modern office setups.",
+        "long_description": "Whiteboard Stand is a premium tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "255.98",
+        "budget_tier": "premium",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 9,
+        "tags": [
+            "office",
+            "premium",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 21"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/whiteboard-stand.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Whiteboard Stand in the Office category",
+        "created_at": "2026-03-16T00:15:18.829536Z",
+        "updated_at": "2026-03-16T00:15:18.829553Z"
+    },
+    {
+        "id": 85,
+        "name": "Wireless Charger",
+        "slug": "wireless-charger",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "Wireless Charger designed for modern electronics setups.",
+        "long_description": "Wireless Charger is a budget tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "97.99",
+        "budget_tier": "budget",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 12,
+        "tags": [
+            "electronics",
+            "budget",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 10"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/wireless-charger.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Wireless Charger in the Electronics category",
+        "created_at": "2026-03-16T00:15:19.035320Z",
+        "updated_at": "2026-03-16T00:15:19.035347Z"
+    },
+    {
+        "id": 1,
+        "name": "Wireless Keyboard",
+        "slug": "wireless-keyboard",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "Wireless Keyboard designed for modern electronics setups.",
+        "long_description": "Wireless Keyboard is a budget tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "34.99",
+        "budget_tier": "budget",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 3,
+        "tags": [
+            "electronics",
+            "budget",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 1"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/wireless-keyboard.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Wireless Keyboard in the Electronics category",
+        "created_at": "2026-03-15T22:43:28.943338Z",
+        "updated_at": "2026-03-21T15:35:26.774700Z"
+    },
+    {
+        "id": 77,
+        "name": "Wireless Mouse",
+        "slug": "wireless-mouse",
+        "category": {
+            "id": 4,
+            "name": "Electronics",
+            "slug": "electronics"
+        },
+        "short_description": "Wireless Mouse designed for modern electronics setups.",
+        "long_description": "Wireless Mouse is a midrange tier product built for electronics use. It is best suited for small spaces and balances function, comfort, and durability.",
+        "price": "52.49",
+        "budget_tier": "midrange",
+        "space_requirement": "small",
+        "in_stock": true,
+        "quantity_available": 6,
+        "tags": [
+            "electronics",
+            "midrange",
+            "small",
+            "megamart"
+        ],
+        "features": [
+            "Plug and play",
+            "Reliable performance",
+            "Compact footprint",
+            "Model series 2"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Simple connectivity",
+            "Compact controls"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/wireless-mouse.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Wireless Mouse in the Electronics category",
+        "created_at": "2026-03-16T00:15:18.945068Z",
+        "updated_at": "2026-03-16T00:15:18.945085Z"
+    },
+    {
+        "id": 52,
+        "name": "Writing Desk",
+        "slug": "writing-desk",
+        "category": {
+            "id": 3,
+            "name": "Office",
+            "slug": "office"
+        },
+        "short_description": "Writing Desk designed for modern office setups.",
+        "long_description": "Writing Desk is a midrange tier product built for office use. It is best suited for medium spaces and balances function, comfort, and durability.",
+        "price": "85.99",
+        "budget_tier": "midrange",
+        "space_requirement": "medium",
+        "in_stock": true,
+        "quantity_available": 3,
+        "tags": [
+            "office",
+            "midrange",
+            "medium",
+            "megamart"
+        ],
+        "features": [
+            "Work ready",
+            "Cable friendly",
+            "Space efficient",
+            "Model series 1"
+        ],
+        "accessibility_features": [
+            "Clear product labeling",
+            "Readable setup guidance",
+            "Easy reach design",
+            "Low effort maintenance"
+        ],
+        "primary_image": "http://127.0.0.1:8000/media/products/writing-desk.jpg",
+        "gallery_images": [],
+        "image_alt_text": "Writing Desk in the Office category",
+        "created_at": "2026-03-16T00:15:18.534040Z",
+        "updated_at": "2026-03-16T00:15:18.534057Z"
+    }
+]
